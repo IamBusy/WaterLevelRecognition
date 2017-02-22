@@ -1,0 +1,2 @@
+# WaterLevelRecognition
+利用HOG特征算法，结合多种过滤算法的一个水位识别程序
